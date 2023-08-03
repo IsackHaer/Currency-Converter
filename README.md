@@ -1,16 +1,5 @@
 # currency_converter
 
-A new Flutter project.
+Flutter project to practice the basics of UI design for both Material aswell as Cupertino. Understanding the  difference between StatelessWidget & StatefulWidget and getting familiar with the Dart syntax.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As for functionality the app only converts from EURO to SEK with a fixed conversion from 3.8.2023.
